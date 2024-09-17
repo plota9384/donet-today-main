@@ -1,0 +1,304 @@
+.header{
+
+  background-image: url(images/donation1.jpg);
+  height:700px ;
+  background-repeat: no-repeat;
+  height: 700px;
+  /* width: 1440; */
+  background-attachment: scroll;
+  background-size: 100% 100%;
+}
+.img{
+  padding: 166px 384px 345px 266px;
+}
+.mun{
+  font-weight: 700;
+  font-size: 65px;
+  color: #ffffff;
+  text-align: center;
+}
+.Lorem{
+  text-align: center;
+  font-size: 18px;
+  color: #ffffff;
+  font-weight: 400px;
+  }
+  .btn{
+ text-align: center;
+
+  }
+  .btn1{
+    
+    /* padding: 175px 640px 438px 640px; */
+   background-color: #ff5959;
+   font-weight: 600;
+   font-size: 20px;
+   padding: 16px 22px 16px 22px;
+   border-radius: 5px;
+   color: ;
+  }
+   /* donet to day */
+  .sobodh{
+    text-align: center;
+  }
+
+  .tt{/* background-color: #fafafa; */
+    padding: 22px 44px 22px 44px;}
+    
+    .tk{
+      background-color: #FFEEEE;
+      padding: 44PX 22PX 44PX 22PX;
+      border-radius: 5px;
+      margin-left: 22px;
+      margin-top: 50px;
+      margin-bottom: 60px;
+      color: #707070;
+      border: 2PX solid #ff5959;
+       }
+       .TK:hover{
+        background-color: #ff5959;
+       }
+  .hr{
+  margin-left:400px;
+  margin-right:400px;
+  }
+  .bb{
+   font-weight: 600px;
+  font-size: 20px; 
+background-color: #ff5959; 
+color:#ffffff ;
+border: none;
+padding: 16px 20px 16px 20px;
+text-align: center;
+margin-bottom: 122PPX;
+border-radius: 5px;
+ /* justify-content: center;  */
+
+
+ }
+ .other{
+  font-weight: 400px;
+  font-size: 18px;
+  color: #b3b3b3;
+  text-align: center;
+ }
+
+
+.borsha{
+  font-weight:700px;
+  font-size:45px;
+  color:#ffffff;
+  text-align:center;}
+
+
+.bristi{
+  font-weight: 400;
+  font-size: 18px;
+  color: #707070;
+}
+.ss{
+list-style: none;
+display: flex;
+/* margin-left: 30px; */
+}
+ul{
+  display: flex;
+}
+/* .taka list{
+  list-style: none;
+  display: flex;
+}
+.taka1{
+  font-weight: 700;
+  font-size: 30px;
+  background-color: #fafafa;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: #707070;
+  margin-left: 22px;
+  padding:50px 24px 50px 24px ;
+  margin-redius */
+  
+
+
+
+
+
+/* Our Donate Plan */
+.Our Donate Plan{
+     margin-bottom: 131px;
+}
+.pp{
+  text-align:center ;
+  font-size: 45px;
+  font-weight:700px;
+  color:#121212;
+}
+  
+.pp1{
+text-align: center;
+font-weight: 400px;
+font-size:18px;
+margin-top: 20px;
+margin-bottom: 58px;
+
+}
+.baba{
+  display: flex;
+  margin-bottom: 131px;
+}
+.son1{
+padding: 145px 23px 22px 53px;
+margin-left: 24px;
+background-color:#eef6f7;
+border-radius:5px;
+}
+.son2{
+  padding:145px 27px 53px 18px ;
+  background-color:#ff5959 ;
+ margin-left:24px; 
+ border-radius:5px;
+
+}
+.son3{
+  padding:145px 32px 53px 13px  ;
+  background-color: #fff4d6;
+  margin-left: 24px;
+  border-radius: 5px;
+
+}
+/* .rimi{
+  margin-top:10px;
+  margin-left: 23px;
+margin-right: 278px;
+} */
+.babu{
+  font-weight: 600px;
+  font-size: 24px;
+  color: #121212;
+  margin-bottom: 16px;
+  margin-left: 18px;
+  margin-right: 27px;
+}
+.babu1{
+  font-weight: 400;
+  font-size: 16px;
+  color: 707070PX;
+  margin-left:18px ;
+  margin-right: 27px;
+}
+.icons{
+  margin-top: 63px;
+}
+.gopal{
+  padding: 40px;
+}
+
+/* Their lives depend on your donation  */
+ .baba2{
+display: flex;
+ }
+ .ss{
+  font-weight: 600;
+  font-size: 20px;
+  background-color:#ff5959 ;
+  color:#ffffff ;
+  border: none;
+  padding: 16px 20px;
+  margin-top: 30px;
+  border-radius: 5px;
+  margin-left: 1566px;
+  
+
+ }
+ .lives{
+  font-weight: 700;
+  font-size: 45px;
+  margin: 182px 83px 20px 157px;
+ }
+ .mm{
+  background-image:url(images/donation8.jpg) ;
+width: 300;
+height: 2112px;
+padding-left: 34px;
+ }
+ .gopal{
+  padding: 40px;
+  width: 490;
+  height: 370px;
+ }
+  .ss{
+  }
+ /*They need us to suvive  */
+ .lk{
+  display: flex;
+  text-align: center;
+  
+ }
+ .akas{
+  margin-right: 94px;
+ }
+ .word{
+  width: 400;
+  height: 300px;
+ }
+ .badhon{
+  background-color: #ff5959;
+  width: 180;
+  height: 46px;
+  border: none;
+  border-radius: 5px;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 20px;
+  .they{
+    font-weight: 700;
+    font-size: 45px;
+  }
+  .mango{
+    font-weight: 400;
+    font-size: 14px;
+    color: #707070;
+  }
+ }
+ .as{
+text-align: center;
+ }
+ .bv{
+
+ }
+ .tonmoy{
+
+  background-color: #fff4d6;
+  margin: 0px 412px 120px 412px;
+  padding: 75px 240px 75px 180px;
+  margin-bottom: 120px;
+ }
+
+ .po{
+  display: flex;
+ }
+ .food{
+  color: #ffffff;
+  background-color: #ff5959;
+  border: none;
+  width: 157;
+  height: 48px;
+ }
+ .alo{
+  text-align: center;
+  width: 700;
+  height: 150px;
+  background-color: #121212;
+ }
+ .priya{
+  font-weight: 400;
+  font-size: 36px;
+  color: #ff5959;
+  margin-top: 43px;
+ }
+ .gonna{
+  font-weight: 400;
+  font-size: 14px;
+  color: #d9dbe1;
+ }
